@@ -1,0 +1,11 @@
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\bin\Debug\EJEMPLO_PRACTICAS.exe.config
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\bin\Debug\EJEMPLO_PRACTICAS.exe
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\bin\Debug\EJEMPLO_PRACTICAS.pdb
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\bin\Debug\EntityFramework.dll
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\bin\Debug\EntityFramework.xml
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.csprojResolveAssemblyReference.cache
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.Form1.resources
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.Properties.Resources.resources
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.csproj.GenerateResource.Cache
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.exe
+c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.pdb

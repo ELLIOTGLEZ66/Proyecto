@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbEJEMPLOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="dbEJEMPLOModelStoreContainer">
+    <EntitySet Name="elliot:_1" EntityType="dbEJEMPLOModel.Store.elliot:_1" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="elliot:_1">
+    <Key>
+      <PropertyRef Name="idPersona" />
+    </Key>
+    <Property Name="idPersona" Type="bigint" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" Nullable="false" MaxLength="120" />
+    <Property Name="Domicilio" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="FechaNac" Type="datetime" Nullable="false" />
+    <Property Name="Rfc" Type="varchar" Nullable="false" MaxLength="13" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbEJEMPLOModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DBEJEMPLO" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="elliot__1" EntityType="dbEJEMPLOModel.elliot__1" />
+  </EntityContainer>
+  <EntityType Name="elliot__1">
+    <Key>
+      <PropertyRef Name="idPersona" />
+    </Key>
+    <Property Name="idPersona" Type="Int64" Nullable="false" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="120" Unicode="false" FixedLength="false" />
+    <Property Name="Domicilio" Type="String" Nullable="false" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="FechaNac" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Rfc" Type="String" Nullable="false" MaxLength="13" Unicode="false" FixedLength="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+  </EntityType>
+</Schema>
