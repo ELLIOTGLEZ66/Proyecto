@@ -211,6 +211,9 @@ namespace EJEMPLO_PRACTICAS
         private void button1_Click(object sender, EventArgs e)
         {
             var BORRAR = BaseDAL.Eliminar<elliot__1>(x => x.idPersona == poc);
+
+
+
             llenar_Grid();
         }
 

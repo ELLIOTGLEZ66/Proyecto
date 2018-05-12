@@ -9,3 +9,6 @@ c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICA
 c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.csproj.GenerateResource.Cache
 c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.exe
 c:\users\cristopherelliot\documents\visual studio 2012\Projects\EJEMPLO_PRACTICAS\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.pdb
+C:\Users\cristopherelliot\Desktop\practicas\Proyecto\EJEMPLO_PRACTICAS\bin\Debug\EJEMPLO_PRACTICAS.exe.config
+C:\Users\cristopherelliot\Desktop\practicas\Proyecto\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.exe
+C:\Users\cristopherelliot\Desktop\practicas\Proyecto\EJEMPLO_PRACTICAS\obj\Debug\EJEMPLO_PRACTICAS.pdb
